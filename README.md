@@ -1,7 +1,7 @@
 # People say they hate Crocs. But they keep buying them. 🐊
 **An Analytical Deep Dive into The Crocs Paradox: Sentiment vs. Sales**
 
-[![Read the Blog](https://img.shields.io/badge/Read_the_Blog-PDF-red.svg)](./[你的PDF文件名].pdf)
+[![Read the Blog](https://img.shields.io/badge/Read_the_Blog-PDF-red.svg)](https://gegewudobby-wq.github.io/Crocs-Blog/crocs%20blog.pdf)
 
 ## 📌 Project Overview
 Crocs has long been criticized as one of the most controversial products in fashion. Online discussions are often filled with skepticism and mockery. Yet, many of their collaborations resell at prices significantly above retail. 
@@ -22,16 +22,15 @@ To quantify how people actually feel about Crocs collaborations and connect onli
 ## 📖 Read the Full Blog
 We have compiled our research, data visualizations, and full insights into a comprehensive blog post. 
 
-👉 **[Click here to read the full PDF blog](./[你的PDF文件名].pdf)**
-
-*(Note: Replace the link above with the actual relative path to your PDF file in this repository)*
+👉 **[Click here to read the full PDF blog](https://gegewudobby-wq.github.io/Crocs-Blog/crocs%20blog.pdf)**
 
 ## 👥 Project Team
-This analysis was a collaborative effort by our team:
-* **Xinyan Jiang:** [你的具体负责部分，例如：Data visualization, regression modeling, and sentiment tracking]
-* **Sahithi:** [她的具体负责部分，例如：Reddit API data collection and text mining]
-* **[组员3姓名]:** [其负责部分，例如：Market research and editorial writing]
-* **[组员4姓名]:** [其负责部分]
+We are students from the Master of Science in Business Analytics (MSBA) program at the University of Illinois Urbana-Champaign (UIUC).
+
+* **Xinyan Jiang**
+* **Jinyi Li**
+* **Linyao Gao**
+* **Zhuoru Chen**
 
 ---
-*If you find this analysis interesting, feel free to connect with us on LinkedIn or reach out for further discussion on data analytics and consumer behavior!*
+*Feel free to reach out for further discussion on data analytics and consumer behavior!*
