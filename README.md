@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" width="220" src="chart1.png" style="margin-left: 24px; margin-bottom: 16px;">
+<img align="left" width="220" src="chart1.png" style="margin-right: 24px; margin-bottom: 16px;">
 
 Crocs has long been criticized as one of the most controversial products in fashion. After almost every new collaboration release, online discussions — especially on platforms like Reddit — are filled with skepticism, mockery, and confusion about its design.
 
@@ -13,7 +13,7 @@ At the same time, many of these collaborations resell at prices significantly ab
 
 This creates a clear tension: if the overall sentiment appears negative, why do these products continue to perform so strongly in the resale market?
 
-<br clear="right">
+<br clear="left">
 
 ---
 
@@ -65,6 +65,8 @@ Importantly, this exposure also sustains the cycle of discussion. Celebrity sigh
 
 ## Measuring the Buzz
 
+<img align="right" width="340" src="chart8.png" style="margin-left: 24px; margin-bottom: 16px;">
+
 To quantify how people actually feel about Crocs collaborations, we collected Reddit discussions using its public JSON search API. We focused on three communities: **r/crocs**, **r/Sneakers**, and **r/streetwear**, using queries like *"Crocs + brand name."*
 
 We then applied the **VADER sentiment model**, a widely used tool for social media text, which assigns each comment a score from **−1** (most negative) to **+1** (most positive).
@@ -73,11 +75,11 @@ To make the data more reliable, we averaged sentiment at the product level and e
 
 This gave us a structured way to connect online opinions with resale performance.
 
+<br clear="right">
+
 ---
 
 ## Attention as a Driver of Sales
-
-<img align="right" width="440" src="chart4.png" style="margin-left: 24px; margin-bottom: 16px;">
 
 If sentiment alone does not explain performance, what factor does?
 
@@ -89,15 +91,15 @@ As a result, repeated exposure increases familiarity and keeps the product top-o
 
 In this context, consumers may not necessarily buy what they like the most, but rather **what they encounter most frequently**.
 
-<br clear="right">
+<div align="center">
+  <img width="560" src="chart4.png" style="margin-top: 16px; margin-bottom: 16px;">
+</div>
 
 ---
 
 ## Public Criticism and Private Interest
 
 Why does negative sentiment raise resale prices? The key factor is **discussion volume**.
-
-<img align="left" width="440" src="chart5.png" style="margin-right: 24px; margin-bottom: 16px;">
 
 Our analysis shows a clear pattern: products with lower sentiment generate more comments, and higher engagement is associated with higher resale premiums. Controversial designs encourage people to react and debate, which increases visibility.
 
@@ -107,7 +109,9 @@ This also reflects an **"overhype penalty."** Widely liked products signal acces
 
 Celebrity adoption further amplifies this effect. Figures like Kendall Jenner and Justin Bieber wear Crocs, extending their visibility to a broader audience. This exposure sustains discussion and reinforces relevance rather than removing controversy.
 
-<br clear="left">
+<div align="center">
+  <img width="560" src="chart5.png" style="margin-top: 16px; margin-bottom: 16px;">
+</div>
 
 ---
 
@@ -115,21 +119,19 @@ Celebrity adoption further amplifies this effect. Figures like Kendall Jenner an
 
 If sentiment does not drive performance, what does? Discussion volume appears to be the stronger factor.
 
-<img align="right" width="440" src="chart6.png" style="margin-left: 24px; margin-bottom: 16px;">
-
 Products with higher engagement tend to sell more units.
 
 This aligns with algorithm-driven platforms. The more people comment or repost, the more visibility a product receives. Repeated exposure keeps it top-of-mind and increases the likelihood of purchase.
 
 Consumers do not always buy what they like most — **they often buy what they see most**. Controversial products benefit from this dynamic and can outperform more conventionally appealing designs.
 
-<br clear="right">
+<div align="center">
+  <img width="560" src="chart6.png" style="margin-top: 16px; margin-bottom: 16px;">
+</div>
 
 ---
 
 ## People Mock It, But Buy It
-
-<img align="right" width="560" src="chart7.png" style="margin-left: 24px; margin-bottom: 16px;">
 
 Reddit comments reveal an interesting contradiction. Even under controversial products, common words include *buy, need, want,* and *size*.
 
@@ -137,7 +139,9 @@ This suggests that **criticism and purchase intent can coexist**. Users may mock
 
 This behavior reflects social proof and fear of missing out. When a product receives constant attention, it signals importance. Over time, curiosity can turn into actual purchasing behavior.
 
-<br clear="right">
+<div align="center">
+  <img width="700" src="chart7.png" style="margin-top: 16px; margin-bottom: 16px;">
+</div>
 
 ---
 
