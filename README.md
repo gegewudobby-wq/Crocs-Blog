@@ -1,9 +1,11 @@
 # People Say They Hate Crocs — But They Keep Buying Them, for More Than Retail
 
-**by Xinyan Jiang, Jinyi Li, Linyao Gao, Zhuoru Chen**
+**by Xinyan Jiang, Jinyi Li, Linyao Gao, Zhuoru Chen**  
 *May 2026 · UIUC MSBA Research Project*
 
 ---
+
+<img align="right" width="220" src="chart1.png" style="margin-left: 24px; margin-bottom: 16px;">
 
 Crocs has long been criticized as one of the most controversial products in fashion. After almost every new collaboration release, online discussions — especially on platforms like Reddit — are filled with skepticism, mockery, and confusion about its design.
 
@@ -11,11 +13,13 @@ At the same time, many of these collaborations resell at prices significantly ab
 
 This creates a clear tension: if the overall sentiment appears negative, why do these products continue to perform so strongly in the resale market?
 
+<br clear="right">
+
 ---
 
 ## The Overhype Penalty: Why Popularity Reduces Scarcity
 
-<img align="right" width="340" src="chart1.png" style="margin-left: 24px; margin-bottom: 16px;">
+<img align="right" width="360" src="chart2.png" style="margin-left: 24px; margin-bottom: 16px;">
 
 One possible explanation lies in how consumers interpret popularity.
 
@@ -47,7 +51,7 @@ These examples suggest that in the current attention-driven environment, **visib
 
 ## Celebrity Amplification and Visibility
 
-<img align="left" width="300" src="chart2.png" style="margin-right: 24px; margin-bottom: 16px;">
+<img align="left" width="320" src="chart3.png" style="margin-right: 24px; margin-bottom: 16px;">
 
 Another factor reinforcing this visibility dynamic is celebrity endorsement. Crocs are frequently worn by high-profile figures such as Kendall Jenner, Justin Bieber, and Bella Hadid. These appearances do not necessarily eliminate the product's controversial perception — in many cases, they coexist with it.
 
@@ -73,7 +77,7 @@ This gave us a structured way to connect online opinions with resale performance
 
 ## Attention as a Driver of Sales
 
-<img align="right" width="420" src="chart3.png" style="margin-left: 24px; margin-bottom: 16px;">
+<img align="right" width="440" src="chart4.png" style="margin-left: 24px; margin-bottom: 16px;">
 
 If sentiment alone does not explain performance, what factor does?
 
@@ -93,7 +97,7 @@ In this context, consumers may not necessarily buy what they like the most, but 
 
 Why does negative sentiment raise resale prices? The key factor is **discussion volume**.
 
-<img align="left" width="420" src="chart4.png" style="margin-right: 24px; margin-bottom: 16px;">
+<img align="left" width="440" src="chart5.png" style="margin-right: 24px; margin-bottom: 16px;">
 
 Our analysis shows a clear pattern: products with lower sentiment generate more comments, and higher engagement is associated with higher resale premiums. Controversial designs encourage people to react and debate, which increases visibility.
 
@@ -111,7 +115,7 @@ Celebrity adoption further amplifies this effect. Figures like Kendall Jenner an
 
 If sentiment does not drive performance, what does? Discussion volume appears to be the stronger factor.
 
-<img align="right" width="420" src="chart5.png" style="margin-left: 24px; margin-bottom: 16px;">
+<img align="right" width="440" src="chart6.png" style="margin-left: 24px; margin-bottom: 16px;">
 
 Products with higher engagement tend to sell more units.
 
@@ -125,11 +129,15 @@ Consumers do not always buy what they like most — **they often buy what they s
 
 ## People Mock It, But Buy It
 
+<img align="right" width="560" src="chart7.png" style="margin-left: 24px; margin-bottom: 16px;">
+
 Reddit comments reveal an interesting contradiction. Even under controversial products, common words include *buy, need, want,* and *size*.
 
 This suggests that **criticism and purchase intent can coexist**. Users may mock the design publicly while still considering a purchase privately.
 
 This behavior reflects social proof and fear of missing out. When a product receives constant attention, it signals importance. Over time, curiosity can turn into actual purchasing behavior.
+
+<br clear="right">
 
 ---
 
